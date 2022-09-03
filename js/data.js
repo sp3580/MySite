@@ -42,10 +42,18 @@ const portfolio_data = [
     {
         "title": "小工具",
         "content":"各種小技術組成一個小網站",
-        "img": "portfolio5.png",
-        "url": "https://github.com/sp3580/MySSOFB",
+        "img": "portfolio6.png",
+        "url": "https://github.com/sp3580/MyTools",
         "description": "使用 RESTful Api 製作一個簡易網站，包含成員CRUD、匯出 csv、html轉pdf等",
         "skill": ["Bootstrap", "JavaScript", "JQuery", "C#", ".NET Core Mvc 5.0", "SQL Project"]
+    },
+    {
+        "title": "作品網(舊)",
+        "content":"使用 Angular 一個小作品集",
+        "img": "portfolio7.png",
+        "url": "https://github.com/sp3580/MyPortfolio",
+        "description": "使用 Angular 製作一個小作品集，展示過去的幾個小作品",
+        "skill": ["Bootstrap", "JavaScript", "Angular"]
     }
 ]
 
