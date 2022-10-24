@@ -69,7 +69,7 @@ const experience_data = [
         "description": "擔任 RD<br>大量使用共用函式、PHPWord、PHPExcel、RPM 封裝、Linux 操作等技術<br>學習 Clean Code、接觸大型專案開發經驗與模組化概念"
     },
     {
-        "interval": "2022/03-10",
+        "interval": "2022/03-2022/10",
         "company": "上市網路科技公司",
         "description": "擔任 RD<br>使用 NET Core MVC 5.0、6.0 開發購物商城與後台管理等<br>學習 RESTful Api 設計與 SQL 設計"
     },
